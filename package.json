@@ -43,7 +43,7 @@
     "react-native": "^0.61.5"
   },
   "dependencies": {
-    "react-native-events": "^1.0.15"
+    "react-native-events": "tchmhkg/react-native-events"
   },
   "devDependencies": {
     "@types/events": "^1.2.0",
